@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 """
-This program archives content from political users.
+This program archives content from pundits.
 """
 
 __author__      = "Aidan Bissell-Siders"
